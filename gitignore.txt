@@ -1,0 +1,4 @@
+work_dirs/
+internlm-chat-7b/
+merged/
+hf/*tensors
